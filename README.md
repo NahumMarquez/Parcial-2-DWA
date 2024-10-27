@@ -2,7 +2,7 @@ Gustavo Nahum Marquez Cruz U20240745
 
 REFLEXIÓN DE LO APRENDIDO
 
-En este parcial trabajamos 5 puntos importantes 
+En este parcial trabajamos puntos importantes 
 
 Este código HTML, junto con Bootstrap 5, trabajamos 5 puntos importantes crea una página web:
 
